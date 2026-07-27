@@ -1,0 +1,36 @@
+
+.button1{
+    float: right;
+}
+.mainbar{
+    font-size: 15px;
+    float: right;
+    word-spacing: 6px;
+    padding-right: 6px;
+}
+logo{
+    display: flex;
+    align-items: center;
+   
+}
+.search{
+    display: flex;
+    justify-content: center;
+}
+
+.search input{
+    width: 900px;
+    height: 70px;
+    font-size: 30px;
+}
+.button2{
+
+ display: flex;
+ justify-content: center;
+}
+.about{
+    word-spacing: 10px;
+}
+.lang{
+    color: blue;
+}
